@@ -1,0 +1,9 @@
+.tiles-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px 0 20px;
+}
+
+.tiles-wrapper .ant-table-wrapper{
+    min-width: 50%;
+}
